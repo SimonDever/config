@@ -2,7 +2,7 @@
 
 ## Visual Studio Code
 
-`get-vscode-extensions`
+`vscode/get-vscode-extensions.bat`
 
 Runs vs code to get extension list and generates a batch file `install-vscode-extensions.bat` with commands to install each extension.
 
