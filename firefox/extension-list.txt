@@ -1,0 +1,9 @@
+https-everywhere@eff.org,https://addons.mozilla.org/firefox/downloads/file/803415/https_everywhere-2017.12.6-an+fx.xpi?src=api
+jid1-MnnxcxisBPnSXQ@jetpack,https://addons.mozilla.org/firefox/downloads/file/782402/privacy_badger-2017.11.20-an+fx.xpi?src=api
+@translatenow,https://addons.mozilla.org/firefox/downloads/file/797297/translate_now-3.1.5-an+fx.xpi?src=api
+{46551EC9-40F0-4e47-8E18-8E5CF550CFB8},https://addons.mozilla.org/firefox/downloads/file/766427/stylish_custom_themes_for_any_website-3.0.1-an+fx.xpi?src=api
+uMatrix@raymondhill.net,https://addons.mozilla.org/firefox/downloads/file/811014/umatrix-1.1.20-an+fx.xpi?src=api
+new-tab-tweaker@rharel,https://addons.mozilla.org/firefox/downloads/file/740294/new_tab_tweaker-1.7.1-an+fx.xpi?src=api
+@testpilot-containers,https://addons.mozilla.org/firefox/downloads/file/775937/firefox_multi_account_containers-4.1.0-fx.xpi?src=api
+firefox@ghostery.com,https://addons.mozilla.org/firefox/downloads/file/811104/ghostery-8.0.1.2-an+fx.xpi?src=api
+jid1-NIfFY2CA8fy1tg@jetpack,https://addons.mozilla.org/firefox/downloads/file/771699/adblock_for_firefox-3.8.0-an+fx.xpi?src=api
