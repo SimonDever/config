@@ -1,0 +1,18 @@
+{
+	"name": "config",
+	"private": true,
+	"license": "UNLICENSED",
+	"version": "0.0.1",
+	"dependencies": {
+		"fs-extra": "^5.0.0",
+		"glob": "^7.1.2",
+		"mkdirp": "^0.5.1",
+		"progress": "^2.0.0",
+		"wget-improved": "^1.5.0"
+	},
+	"scripts": {
+		"firefox:list-extensions": "node firefox/list-extensions.js",
+		"firefox:install-extensions": "node firefox/install-extensions.js",
+		"firefox:download-extensions": "node firefox/download-extensions.js"
+	}
+}
