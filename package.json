@@ -13,6 +13,8 @@
 	"scripts": {
 		"firefox:list-extensions": "node firefox/list-extensions.js",
 		"firefox:install-extensions": "node firefox/install-extensions.js",
-		"firefox:download-extensions": "node firefox/download-extensions.js"
+		"firefox:download-extensions": "node firefox/download-extensions.js",
+		"composer:list-global-libraries": "node composer/list-global-libraries.js",
+		"composer:install-global-libraries": "sh ./composer/install-global-libraries.sh"
 	}
 }
