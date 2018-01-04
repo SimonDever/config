@@ -26,7 +26,7 @@ module.exports = {
 		"brace-style": ["error", "1tbs"],
 		"callback-return": "error",
 		"camelcase": "error",
-		"capitalized-comments": ["error", "never"],
+		"capitalized-comments": "off",
 		"class-methods-use-this": "error",
 		"comma-dangle": "error",
 		"comma-spacing": ["error", {
@@ -94,10 +94,10 @@ module.exports = {
 		"lines-between-class-members": "error",
 		"max-depth": "error",
 		"max-len": "off",
-		"max-lines": "error",
+		"max-lines": "off",
 		"max-nested-callbacks": "error",
 		"max-params": "error",
-		"max-statements": "error",
+		"max-statements": "off",
 		"max-statements-per-line": "error",
 		"multiline-comment-style": [
 			"error",
