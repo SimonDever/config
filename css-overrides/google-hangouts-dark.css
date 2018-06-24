@@ -510,7 +510,7 @@ a:hover,
 
 /* background color */
 #hangout-landing-chat-moles ~ div div[id^=':1'] + div:not([id])  {
-	background: #222;
+	background: #0A0A0A;
 }
 
 /* background image attribution */
